@@ -1,1 +1,1 @@
-# data-science-notebook
+# data_science_notebook
